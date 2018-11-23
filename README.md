@@ -9,3 +9,11 @@ Inspirados no projeto de ocupações críticas do TRE-MG e sentindo a necessidad
 5)  Melhorar planejamento de capacitação; e 
 6) Fomentar curadoria e formas variadas de capacitação.
 É um projeto em construção. 
+
+Para instalação do app você deve baixar os seguintes arquivos:
+1) Arquivo do importação do app;
+2) Script de criação da base de dados;
+3) Script de criação das funções e procedures de banco de dados;
+4) Roteiro de instalação.
+
+Atenção: o app não contempla controle de acesso a aplicações. Esse módulo deve ser desenvolvido separadamente assim como as formas de autenticação e de autorização ao app.
