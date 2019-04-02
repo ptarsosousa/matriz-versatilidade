@@ -11,9 +11,8 @@ Inspirados no projeto de ocupações críticas do TRE-MG e sentindo a necessidad
 É um projeto em construção. 
 
 Para instalação do app você deve baixar os seguintes arquivos:
-1) Arquivo do importação do app;
-2) Script de criação da base de dados;
-3) Script de criação das funções e procedures de banco de dados;
-4) Roteiro de instalação.
+1) Roteiro de instalação
+2) Arquivo do importação do app "Administração de Acesso";
+3) Arquivo de importação do app "Matriz de Versatilidade";
 
-Atenção: o app não contempla controle de acesso a aplicações. Esse módulo deve ser desenvolvido separadamente assim como as formas de autenticação e de autorização ao app.
+Siga os passos do roteiro de instalação.
